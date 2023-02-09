@@ -9,6 +9,8 @@ Cara download dengan git clone:
    Pilih directory untuk tempat clone projek
    Klik path foldernya lalu ketik "cmd"
    Di cmd, ketik git clone [link HTTPS]
+   
+   
 Cara menjalankan program:
 
    composer update
